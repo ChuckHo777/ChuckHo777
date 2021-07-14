@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chuck @ChuckHo777
+- 👋 Hi, I’m Chuck Ho @ChuckHo777
 - 👀 I’m interested in data science, data analytics and business intelligence.
 - 📫 You can reach me @ hkcmul@gmail.com
 
